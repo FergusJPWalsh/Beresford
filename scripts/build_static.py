@@ -12,10 +12,9 @@ for WORK in WORK_LIST:
     HEADER = f"""\
     <!DOCTYPE html>
     <html lang="grc">
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,700&amp;subset=greek,greek-ext" rel="stylesheet">
-    <link rel="stylesheet"
-    <link href="style.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet" />
     </head>
     <body>
       <div class="container alpheios-enabled" lang="grc">
