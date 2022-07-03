@@ -1,0 +1,222 @@
+1.1.0 The Parthenon
+1.1.1 The Parthenon is a temple of Athena.
+1.1.2 Athena was a goddess of the Athenians.
+1.1.3 She was the daughter of Zeus.
+1.1.4 The Athenians had many gods.
+1.1.5 The temple is made of marble.
+1.1.6 Mount Pentelicon supplies the stones.
+1.1.7 Mount Pentelicon is the name of a mountain.
+1.1.8 The stones are white.
+1.1.9 The quarries still provide stones.
+1.2.0 Actors
+1.2.1 There were many poets among the Greeks.
+1.2.2 The Athenians honoured poets greatly.
+1.2.3 Some composed comedies, while others tragedies.
+1.2.4 Of the latter Sophocles, of the former Aristophanes was famous.
+1.2.5 A rich man paid for the chorus.
+1.2.6 The citizens used to go to the theatre in droves.
+1.2.7 Firstly there were two, but later there were three actors.
+1.2.8 Actors wore masks.
+1.2.9 The masks were of all kinds and wonderful.
+1.3.0 Arms
+1.3.1 The hoplite carried many and heavy arms.
+1.3.2 The greaves protect the shins.
+1.3.3 A bronze breastplate keeps the chest safe.
+1.3.4 The head bears a bronze helmet.
+1.3.5 Horsehair crests stand on the helmet.
+1.3.6 The left hand holds a shining shield.
+1.3.7 All hoplites carry spears.
+1.3.8 A leather belt holds a sword.
+1.3.9 The sword is sharp.
+1.4.0 Torch-race
+1.4.1 The Athenians worshipped many gods.
+1.4.2 They thought Prometheus was the god of fire.
+1.4.3 Artemis was revered among them.
+1.4.4 Every year they held a torch-race.
+1.4.5 Many young men competed.
+1.4.6 Each carried a torch.
+1.4.7 They set off from the Potters’ Quarter 
+1.4.8 And they ran to the Acropolis.
+1.4.9 Whoever arrived first holding a lamp still burning, won.
+1.5.0 The Winds
+1.5.1 Aeolus is the king of the winds.
+1.5.2 Boreas is the harshest of all the winds.
+1.5.3 This wind is carried from the North.
+1.5.4 Notus is wet and violent.
+1.5.5 For that wind brings rain clouds from the sea.
+1.5.6 And Zephyrus is milder and more kindly.
+1.5.7 This wind makes the sea calm.
+1.5.8 But Eurus is dark and hostile.
+1.5.9 For this wind burns the whole land.
+1.6.0 Prometheus Stealing Fire
+1.6.1 Prometheus was the son of Iapetus and Clymene.
+1.6.2 It is said he discovered many and amazing skills.
+1.6.3 Not only did he do many other things, he also gave fire to humans.
+1.6.4 In pursuit of this, he went up to Olympus, the house of the gods.
+1.6.5 From there he stole fire.
+1.6.6 He hid it in a casket.
+1.6.7 But the gods, upon learning this, were angry.
+1.6.8 Therefore they decided to punish him.
+1.6.9 Because he had helped humans, he himself suffered unjustly.
+1.7.0 Hoplite
+1.7.1 The Greeks fought on land and at sea.
+1.7.2 The cities were often making war on one another.
+1.7.3 The Athenians and the Lacedaemonians were the most famous of the Greeks.
+1.7.4 A hoplite fought on foot.
+1.7.5 He carried heavy weapons in battle.
+1.7.6 He had a spear and a great shield.
+1.7.7 The light infantry fought alongside the hoplites.
+1.7.8 These men carried few arms.
+1.7.9 The Lacedaemonians defeated the Athenians in the end.
+1.8.0 Artemis
+1.8.1 Artemis was the sister of Apollo.
+1.8.2 Sophocles calls her a hunter.
+1.8.3 She carried a bow and arrows.
+1.8.4 She was skilled in the use of the bow.
+1.8.5 She killed wild beasts with missiles.
+1.8.6 She loved to hunt the deer in the mountains.
+1.8.7 She was the quickest on foot and the strongest.
+1.8.8 No-one either of gods or of mortals married her.
+1.8.9 Her most famous temple stands in Ephesus.
+1.8.10 Once, Oeneus, the king of Aetolia, insulted Artemis.
+1.8.11 The goddess punished him for his outrage.
+1.8.12 For she sent a boar to destroy the land.
+1.8.13 But then Meleager, the son of the king, after bringing together many friends, killed the animal himself with a spear.
+1.8.14 And having cut off the head, gave it to Atalanta.
+1.8.15 He dedicated the hide to Athena.
+1.8.16 He did this because the goddess aided him, for she always loved Meleager.
+1.8.17 But he died not long afterwards.
+1.8.18 Thus Artemis exacted vengeance.
+1.9.0 Athletes
+1.9.1 Greece reared men worthy of tales.
+1.9.2 Some were worthy of note because of crafts, and others through contests.
+1.9.3 They trained their bodies and competed in many contests.
+1.9.4 Among these, the Olympic Games was the most honoured.
+1.9.5 Many were very skilled in throwing the discus.
+1.9.6 Many others competed in a running-race.
+1.9.7 The prize was a crown of olive-branch.
+1.9.8 Everyone thought this was the best prize.
+1.9.9 Pindar composed many poems about prizes.
+1.10.0 Darius
+1.10.1 Darius was the king of the Persians.
+1.10.2 He was wiser than the earlier rulers.
+1.10.3 He imposed a tribute on his subjects.
+1.10.4 The Cilicians brought a tribute of white horses.
+1.10.5 From the Indians there was the largest tribute.
+1.10.6 He once sent his army against the Greeks.
+1.10.7 The Athenians defeated the Persians at Marathon.
+1.10.8 There were more Persians than Athenians.
+1.10.9 But the Athenians were braver than the Persians.
+1.11.0 Chariot-races
+1.11.1 At all athletic contests, chariot races were held.
+1.11.2 Quick horses pulled chariots.
+1.11.3 Some chariots had two horses, others had four.
+1.11.4 Those who had won always became very famous.
+1.11.5 The prize was only a crown of olive-branch.
+1.11.6 But it was thought that the undying fame was the sweetest prize.
+1.11.7 For there was no greater fame among the Greeks.
+1.11.8 It was necessary that the charioteer be very clever.
+1.11.9 Fat horses never won the contest.
+1.12.1 Chariot of the Sun
+1.12.1 The Sun was a god among the ancients.
+1.12.2 Apollo was in charge of prophesy and music.
+1.12.3 And in the poetry of Homer, these gods were thought to be different.
+1.12.4 Later, Apollo was also thought to be the god of the sun.
+1.12.5 He was carried in a chariot through the sky.
+1.12.6 Four horses were yoked to the chariot.
+1.12.7 Once, Phaëthon, son of the Sun, drove the chariot of his father.
+1.12.8 But the horses, after running off from the track, burnt everything but the ground.
+1.12.9 And Zeus, angered, killed Phaethon with a thunderbolt.
+1.13.0 Dirce and the Bull
+1.13.1 Lycus was once the king of Thebes, the one in Boeotia.
+1.13.2 Antiope was the first wife of Lycus.
+1.13.3 But then that man, after divorcing Antiope, married Dirce.
+1.13.4 Amphion and Zethus were the sons of Antiope.
+1.13.5 Until their coming of age, they were brought up on Mount Cithaeron.
+1.13.6 Upon learning where they had been born, they schemed to avenge their mother.
+1.13.7 They therefore went to Thebes as quickly as possible.
+1.13.8 After making an attack, they seized the city.
+1.13.9 They therefore decided to punish Dirce.
+1.13.10 For this purpose, they took control of a bull by force.
+1.13.11 The bull was large and terrifying.
+1.13.12 They fastened Dirce to this bull with a rope.
+1.13.13 The bull dragged her along, as she suffered greatly.
+1.13.14 Therefore, she was thus killed having inflicted injustice on others.
+1.13.15 But the young men threw her body into a spring.
+1.13.16 For this reason the spring was named Dirce’s Spring.
+1.14.0 Niobe
+1.14.1 After killing Lycus, Amphion became king of Thebes.
+1.14.2 Hermes gave a lyre to Amphion.
+1.14.3 Having this lyre, he is said to have done something amazing.
+1.14.4 For each stone of the walls moved themselves to the right place.
+1.14.5 Amphion married Niobe, the daughter of Tantalus.
+1.14.6 They had many sons and daughters.
+1.14.7 Niobe was greatly exalted for these children.
+1.14.8 But Leto had only two children.
+1.14.9 Leto was the mother of Apollo and Artemis.
+1.14.10 These were both gods.
+1.14.11 Niobe said boastingly that her children were more beautiful than those of that woman.
+1.14.12 Leto therefore sent Apollo and Artemis to Thebes.
+1.14.13 Upon arrival, they killed all of Niobe’s children.
+1.14.14 But Zeus changed Niobe into a rock.
+1.14.15 Streams always flow from there during summer.
+1.14.16 And Amphion himself died by his own hand.
+1.15.0 Garments
+1.15.1 The Romans and the Greeks wore fine garments.
+1.15.2 The clothes of today are different from those from that time.
+1.15.3 Actors often had a chiton (tunic).
+1.15.4 Over this there was a chlamys (cloak) or a himation (cloth-mantle).
+1.15.5 Their appearance was resplendent.
+1.15.6 They differed greatly in shape.
+1.15.7 Women sometimes put on a robe.
+1.15.8 The generals and the ephebes wore a chlamys (cloak).
+1.15.9 What, then, is more beautiful than the garments of the Greeks of that time?
+1.16.0 Delphi
+1.16.1 A temple of Apollo was established at Delphi.
+1.16.2 The oracle there was the most famous of all.
+1.16.3 Powerful kings sent trustworthy messengers to the oracle.
+1.16.4 These messengers brought large and expensive gifts each time for the god.
+1.16.5 The temple therefore became the wealthiest.
+1.16.6 The gold was kept in treasuries, of which there were thirteen.
+1.16.7 The priestess sat upon a bronze tripod.
+1.16.8 A hot wind that came up through a chasm in the ground incited the priestess.
+1.16.9 This tripod is still standing in Byzantium.
+1.17.0 Theatre of Dionysus
+1.17.1 In Athens stands the great Theatre of Dionysus.
+1.17.2 The basin was cut from the rock of the Acropolis.
+1.17.3 The seat-wedges were separated by broad stairs.
+1.17.4 The seats are stone.
+1.17.5 But the priests and generals sat on marble thrones.
+1.17.6 These thrones were placed in front of the others.
+1.17.7 Euripides directed famous tragedies there.
+1.17.8 The actors wore masks.
+1.17.9 The altar of the god stood in the middle of the orchestra (dance-stage).
+1.18.0 Musical Instruments
+1.18.1 The ancients were skilled in music.
+1.18.2 They used the phorminx (harp), the lyre and the cithara.
+1.18.3 Hermes, as they say, invented the cithara, and Apollo the lyre.
+1.18.4 There was an aulete with the choruses, who had an aulos (oboe).
+1.18.5 Some auloi were wooden, and some made of bone.
+1.18.6 The lyre has strings, but the aulos does not.
+1.18.7 The aulos is therefore blown; the lyre is plucked.
+1.18.8 The archon (magistrate) who gives the chorus appoints the aulete to the chorus-leader.
+1.18.9 The chorus-leader gave the aulete payment.
+1.19.0 Ships
+1.19.1 Ships carried many rowers and seafarers.
+1.19.2 Each rower drove the ship with oars.
+1.19.3 The prow of the ship is high.
+1.19.4 The forestays secured the sail.
+1.19.5 The sailors hoisted the sail.
+1.19.6 The wind filled the sails.
+1.19.7 The Corinthians were the first who built triremes.
+1.19.8 Some of the Greeks used sails, and others used oars.
+1.19.9 The ram smashes the ships of the enemy.
+1.20.0 Paris
+1.20.1 Paris was the son of Priam, king of Troy.
+1.20.2 Once he came to Lacedaemon and saw there Helen, the wife of king Menelaus.
+1.20.3 When Menelaus had gone away to Crete, Paris carried Helen off.
+1.20.4 The Greeks were very angry at these events.
+1.20.5 And after assembling a great expedition, assaulted the Trojans.
+1.20.6 At first, they were not able to take the city.
+1.20.7 But after besieging the city for ten years, the finally captured it.
+1.20.8 And Paris, wounded by an arrow, died.

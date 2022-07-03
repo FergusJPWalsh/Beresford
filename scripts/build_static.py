@@ -1,8 +1,8 @@
 # WORK_LIST = ["preface", "01", "02"]
 # TITLES = {"preface": "Preface", "01": "Part 1", "02": "Part 2"}
 
-WORK_LIST = ["preface"]
-TITLES = {"preface": "Preface"}
+WORK_LIST = ["01.eng"]
+TITLES = {"01.eng": "Part 1"}
 
 for WORK in WORK_LIST:
     print("processing", WORK)

@@ -26,7 +26,7 @@ reference	token	lemma	gloss	other
 1.3.1	ὁπλίτης	ὁπλίτης	a hoplite, a heavily-armed infantryman	
 1.3.2	κνημῖδες	κνημίς	a greave, armour to protect the shins	illustration A
 1.3.2	κνήμας	κνῆμα	the shin, the lower leg	
-1.3.3	Χαλκοῦς	χαλκοῦς	made of bronze, made of copper	Attic χαλκοῦς, χαλκῆ, χαλκοῦν, contracted from χάλκεος, χάλκεα χάλκεον. TYPO.
+1.3.3	Χαλκοῦς	χαλκοῦς	made of bronze, made of copper	Attic χαλκοῦς, χαλκῆ, χαλκοῦν, contracted from χάλκεος, χάλκεα χάλκεον.
 1.3.3	θώραξ	θώραξ	a breastplate, armour protecting the upper body	illustration B
 1.3.3	στέρνον	στέρνον	the brest, chest	
 1.3.5	Ἵππιοι	ἵππιος	from a horse	
@@ -41,9 +41,9 @@ reference	token	lemma	gloss	other
 1.3.8	ἀνείχει	ἀνέχω	to hold	
 1.3.9	ξίφος	ξίφος	a sword	τὸ ξίφος, τοῦ ξίφεος; illustration G
 1.4.1	ἐθεράπευον	θεραπεύω	to worship	3rd plural imperfect active indicative.
-1.4.2	Προμηθέα	Προμηθεύς	the hero Prometheus	TYPO
+1.4.2	Προμηθέα	Προμηθεύς	the hero Prometheus	
 1.4.3	Ἄρτεμις	Ἄρτεμις	the goddess Artemis	
-1.4.3	σεμνή	σεμνός	revered, sacred, holy	TYPO
+1.4.3	σεμνή	σεμνός	revered, sacred, holy	
 1.4.4	ἐνιαυτὸν	ἐνιαυτός	a year	κατ’ ἐνιαυτὸν “every year.”
 1.4.4	λαμπαδηδρομίαν	λαμπαδηδρομία	a torch-race	
 1.4.5	νεανίαι	νεανίης	a young man	
@@ -65,7 +65,7 @@ reference	token	lemma	gloss	other
 1.5.6	Ζέφυρος	Ζέφυρος	Zephyrus	the west wind.
 1.5.6	πραότερος	πραός	mild, gentle	
 1.5.6	εὐμενέστερός	εὐμενής	kind	
-1.5.7	εὐδιαιτέραν	εὔδιος	calm, fine, clear	TYPO
+1.5.7	εὐδιαιτέραν	εὔδιος	calm, fine, clear	
 1.5.8	Εὖρος	Εὖρος	Eurus	the east wind.
 1.5.8	μέλας	μέλας	dark	μέλας, μέλαινα, μέλαν
 1.5.8	δυσμενής	δυσμενής	hostile	
@@ -135,7 +135,7 @@ reference	token	lemma	gloss	other
 1.9.9	Πίνδαρος	Πίνδαρος	the poet Pindar	
 1.10.1	Δαρεῖος	Δαρεῖος	Darius I the Great	c. 550-486 BC
 1.10.1	Περσῶν	Πέρσης	a Persian	
-1.10.2	πρόσθεν	πρόσθεν	before, in the past, of old	τῶν πρόσθεν ἀρχόντων = “of ancient rulers.”
+1.10.2	πρόσθεν	πρόσθεν	before, previous	τῶν πρόσθεν ἀρχόντων = “than previous rulers.”
 1.10.3	Φόρον	Φόρος	payment, tribute	
 1.10.3	ὑπηκόοις	ὑπήκοος	a subject	
 1.10.4	Κιλίκιοι	Κιλίκιος	a Cilician	Cilicia was an ancient kingdom in south Turkey.
@@ -154,7 +154,7 @@ reference	token	lemma	gloss	other
 1.11.9	οὔποτε	οὔποτε	never	
 1.12.1	Ἥλιος	ἥλιος	the sun, the sun-god Helios	
 1.12.2	ἐπεστάτει	ἐπιστατέω	to be in charge of, have care over	
-1.12.2	μαντείᾳ	μαντεία	prophesying, prophetic power	TYPO
+1.12.2	μαντείᾳ	μαντεία	prophesying, prophetic power	
 1.12.2	μουσικῇ	μουσική	music, the arts	
 1.12.3	Ὁμήρου	Ὁμῆρος	the poet Homer	
 1.12.3	ἕπεσιν	ἔπος	a line of poetry, epic poetry	
@@ -173,5 +173,5 @@ reference	token	lemma	gloss	other
 1.13.3	Δίρκην	Δίρκη	Dirce	
 1.13.4	Ἀμφίων	Ἀμφίων	Amphion	
 1.13.4	Ζῆθος	Ζῆθος	Zethus	
-1.13.5	ἥβης	ἥβη	youth	
+1.13.5	ἥβης	ἥβη	here: coming of age	
 1.13.5	Κιθαιρῶνι	Κιθαιρών	Mount Cithaeron	
