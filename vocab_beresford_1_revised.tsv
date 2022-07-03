@@ -11,8 +11,8 @@ reference	token	lemma	gloss	other
 1.2.1	Ἕλλησιν	Ἕλλην (Ἕλληνες)	a Greek (the Greeks)	dative plural.
 1.2.3	κωμῳδίας	κωμῳδία	a comedy	
 1.2.3	τραγῳδίας	τραγῳδία	a tragedy	
-1.2.4	Σοφοκλῆς	Σοφοκλῆς	Sophocles	
-1.2.4	Ἀριστοφάνης	Ἀριστοφάνης	Aristophanes	
+1.2.4	Σοφοκλῆς	Σοφοκλῆς	the dramatist Sophocles	
+1.2.4	Ἀριστοφάνης	Ἀριστοφάνης	the dramatist Aristophanes	
 1.2.4	εὔδοξος	εὔδοξος	honoured, famous	
 1.2.5	Πλούσιός	πλούσιος	wealthy, rich	
 1.2.5	ἐχορήγει	χορηγέω	to fund a chorus	3rd singular imperfect active indicative.
@@ -120,4 +120,58 @@ reference	token	lemma	gloss	other
 1.8.15	δέρμα	δέρμα	the skin, hide	
 1.8.15	καθιέρωσε	καθιερόω	to dedicate, offer to a god	
 1.8.16	βεβοηθηκέναι	βοηθέω	to help	perfect active infinitive. διὰ τὸ τὴν θεὸν βεβοηθηκέναι = “on account of the fact that the goddess had helped him.”
-1.9.1	
+1.9.1	Ἑλλὰς	Ἑλλάς	Greece, Hellas	
+1.9.1	ἀξιολόγους	ἀξιόλογος	famous, worthy of mention	
+1.9.2	ἀξιόχρεῳ	ἀξιόχρεως	famous, renowned	masculine nominative plural; nom.: ἀξιόχρεως, ἀξιόχρεων; gen.: ἀξιόχρεω
+1.9.3	Ἐγύμναζον	γυμνάζω	to train, to work-out	
+1.9.4	Ὀλυμπιακὸς	Ὀλυμπιακός	Olympic, Olympian	
+1.9.5	σφόδρα	σφόδρα	very, very much	
+1.9.5	δίσκον	δίσκος	discus	
+1.9.6	δρόμῳ	δρόμος	a running-race	
+1.9.7	νικητήριον	νικητήριον	a prize	
+1.9.7	στέφανος	στέφανος	a wreath, crown	
+1.9.7	κοτίνου	κότινος	olive-tree	
+1.9.8	ἆθλον	ἆθλον	prize	
+1.9.9	Πίνδαρος	Πίνδαρος	the poet Pindar	
+1.10.1	Δαρεῖος	Δαρεῖος	Darius I the Great	c. 550-486 BC
+1.10.1	Περσῶν	Πέρσης	a Persian	
+1.10.2	πρόσθεν	πρόσθεν	before, in the past, of old	τῶν πρόσθεν ἀρχόντων = “of ancient rulers.”
+1.10.3	Φόρον	Φόρος	payment, tribute	
+1.10.3	ὑπηκόοις	ὑπήκοος	a subject	
+1.10.4	Κιλίκιοι	Κιλίκιος	a Cilician	Cilicia was an ancient kingdom in south Turkey.
+1.10.4	λευκῶν	λευκός	white	
+1.10.5	Ἰνδῶν	Ἰνδός	an Indian	here the inhabitants of the Indus Valley rather than the whole sub-continent.
+1.10.5	προσῄει	προσίημι	here: to come (from)	3rd person singular imperfect active indicative.
+1.10.7	Μαραθῶνι	Μαραθών	Marathon, a plain north-east of Athens, battle fought 490 BC.
+1.10.9	ἀνδρειότεροι	ἀνδρεῖος	brave, courageous	
+1.11.1	ἁρμάτων	ἅρμα	chariot	τὸ ἅρμα, τοῦ ἅρματος
+1.11.2	εἷλκον	ἕλκω	to pull, to drag	
+1.11.5	ἀθάνατον	ἀθάνατος	immortal, undying, everlasting	
+1.11.6	κλέος	κλέος	fame, glory	
+1.11.8	ἡνίοχον	ἡνίοχος	a driver, charioteer	
+1.11.8	φρονιμώτατον	φρόνιμος	clever	
+1.11.9	πίονες	πίων	fat	
+1.11.9	οὔποτε	οὔποτε	never	
+1.12.1	Ἥλιος	ἥλιος	the sun, the sun-god Helios	
+1.12.2	ἐπεστάτει	ἐπιστατέω	to be in charge of, have care over	
+1.12.2	μαντείᾳ	μαντεία	prophesying, prophetic power	TYPO
+1.12.2	μουσικῇ	μουσική	music, the arts	
+1.12.3	Ὁμήρου	Ὁμῆρος	the poet Homer	
+1.12.3	ἕπεσιν	ἔπος	a line of poetry, epic poetry	
+1.12.5	ἐζεύχθησαν	ζεύγνυμι	to yoke to	
+1.12.7	Φαέθων	Φαέθων	Phaëthon	
+1.12.7	ἤλαυνεν	ἐλαύνω	to drive	
+1.12.8	ἀποδραμόντες	ἀποτρέχω	to run off	
+1.12.8	ξυνέκαυσαν	συγκαίω	to set on fire, burn up	
+1.12.9	ὀργισθεὶς	ὀργίζω	to make angry	
+1.12.9	κεραυνῷ	κεραυνός	a thunderbolt	
+1.13.1	Λύκος	Λύκος	Lycus, son of Poseidon and the Pleiad Celaeno.
+1.13.1	Θηβῶν	Θῆβαι	Thebes	polis in Boeotia.
+1.13.1	Βοιωτίᾳ	Βοιωτία	Boeotia	region of Greece north-east of Athens.
+1.13.2	Ἀντιόπη	Ἀντιόπη	Antiope	
+1.13.3	ἀποπέμψας	ἀποπέμπω	to divorce	
+1.13.3	Δίρκην	Δίρκη	Dirce	
+1.13.4	Ἀμφίων	Ἀμφίων	Amphion	
+1.13.4	Ζῆθος	Ζῆθος	Zethus	
+1.13.5	ἥβης	ἥβη	youth	
+1.13.5	Κιθαιρῶνι	Κιθαιρών	Mount Cithaeron	
